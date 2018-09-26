@@ -6,7 +6,7 @@ etage = 1
 space = n - 1 
     while etage <= n 
         
-        puts (" " * space) + ("#" * etage)
+        puts " " * space + "#" * etage
         
         etage = etage + 1
         space = space - 1 

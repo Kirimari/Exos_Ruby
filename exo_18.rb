@@ -1,11 +1,12 @@
-  
-    i = 0
-    number = rand(1...25)
-
-    name = ["Jean"]
-    surname = ["dupont"]
-
-    providers = ["email.com"]
+for n in 1..50
     
-    puts name +"."+surname+"."+i+"@"+providers
-    i= i+1
+    if n <= 9
+    
+    puts %["jean.dupont.0#{n}@email.com"]
+        
+    else 
+        
+    puts %["jean.dupont.#{n}@email.com"]
+        
+    end 
+end

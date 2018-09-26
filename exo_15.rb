@@ -5,7 +5,7 @@ annee = gets.chomp.to_i
 compteur = 2018
 age=0
 
-while compteur > annee
+while compteur > annee 
     #puts nombre +=1
     #puts age +=1
     

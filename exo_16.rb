@@ -10,7 +10,7 @@ while  age > compteur
     
     puts "il y a #{compteur} année, tu avais #{age-compteur} ans"
     
-    compteur = compteur + 1
+    compteur = compteur + 1 
     
     
 end

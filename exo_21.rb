@@ -9,5 +9,5 @@ space = n - 1
         puts " " * space + "#" * etage
         
         etage = etage + 1
-        space = space - 1 
+        space = space - 1  
     end

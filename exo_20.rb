@@ -7,5 +7,5 @@ etage = 1
         
         puts "#" * etage 
         
-        etage = etage + 1
+        etage = etage + 1 
     end

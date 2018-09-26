@@ -27,4 +27,4 @@ puts "Est-ce que 5 est inférieur ou égal à -2 ? #{5 <= -2}" # cette fonction 
 
 
 
-# #{} sépare ce qui doit être interpreté comment un string et ce qui doit l'être de l'Integer 
+# #{} sépare ce qui doit être interpreté comment un string et ce qui doit l'être de l'Integer  

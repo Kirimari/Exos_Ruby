@@ -12,7 +12,7 @@ while  age > compteur
         
             puts " il y a #{compteur} année, tu avais la moitié de l'âge que tu as aujourd'hui"
             compteur = compteur + 1 
-             
+              
         break
              
         end 

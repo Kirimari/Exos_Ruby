@@ -12,7 +12,7 @@ for n in 1..50
 	end
 end
 
-print a
+print a 
 
 
  
